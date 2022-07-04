@@ -1,0 +1,196 @@
+.mainContainer
+{
+    position: relative;
+}
+#img1
+{
+    height: 900px;
+}
+.navbar
+{
+    top: -800px;
+    padding: 12px;
+    opacity: 0.7;
+    font-size: 20px;
+    
+   
+}
+.navbar-brand
+{
+    font-size: 40px;
+    margin-left: 100px;
+}
+.collapse
+{
+   padding-left: 100px;
+}
+#booking
+{
+    color: white;
+    border: solid 4px rgb(253, 189, 79);
+    border-radius: 30px;
+    padding-left: 30px;
+    padding-right: 30px;
+    margin-right: 100px;
+}
+#booking:hover
+{
+    background-color: rgb(253, 189, 79);
+}
+.welcome
+{
+    margin-top: -600px;
+    color: white;
+    margin-left: 150px;  
+}
+#welcome1
+{
+    font-size: 50px;
+}
+#Restaurantly
+{
+    color: rgb(253, 189, 79);;
+}
+#Delivering
+{
+    font-family: 'Times New Roman', Times, serif;
+}
+#menu
+{
+    color: white;
+    border: solid 4px rgb(253, 189, 79);
+    border-radius: 30px;
+    padding-left: 30px;
+    padding-right: 30px;
+    margin-top: 20px;
+    
+}
+#menu:hover
+{
+    background-color: rgb(253, 189, 79);
+}
+#tableBooking
+{
+    color: white;
+    border: solid 4px rgb(253, 189, 79);
+    border-radius: 30px;
+    padding-left: 30px;
+    padding-right: 30px;
+    margin-left: 40px;
+    margin-top: 20px;
+}
+#tableBooking:hover
+{
+    background-color: rgb(253, 189, 79);
+}
+#img2
+{
+    margin-top: 334px;
+    height: 900px;
+    opacity: 0.9;
+}
+.row1
+{
+    margin-top: -800px;
+    color: white;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+     
+}
+.lorem
+{
+    margin-left: 150px; 
+}
+#img3
+{
+    opacity: 0.9;
+    height: 75%;
+    border: solid 5px grey;
+}
+.mainContainer3
+{
+    margin-top: 260px;
+    background-color:rgb(14, 14, 10);
+    
+    
+    
+}
+#whyUs
+{ 
+    padding-top: 80px;
+    margin-left: 150px; 
+    color: white;
+   
+
+}
+.row2
+{
+    
+    padding-top: 80px;
+    margin-left: 150px; 
+}
+#choose
+{
+    color:rgb(253, 189, 79);
+    font-family: 'Times New Roman', Times, serif;
+}
+.cardCol1
+{
+   color: white;
+}
+.cardCol1:hover
+{
+    color:rgb(253, 189, 79);
+}
+
+.cardCol2
+{
+    color: white;
+}
+.cardCol2:hover
+{
+    color:rgb(253, 189, 79);
+    
+}
+.cardCol3
+{
+    color: white;
+}
+.cardCol3:hover
+{
+    color:rgb(253, 189, 79);
+}
+.card1
+{
+    color:rgb(253, 189, 79);
+    padding-top: 30px;
+}
+.card2
+{
+    color:rgb(253, 189, 79);
+    padding-top: 30px;
+}
+.card3
+{
+    color:rgb(253, 189, 79);
+    padding-top: 30px;
+}
+.Lorem
+{
+    font-family: 'Times New Roman', Times, serif;
+    padding-top: 20px;
+}
+.Repellat
+{
+    font-family: 'Times New Roman', Times, serif;
+    padding-top: 20px;
+}
+.Ad
+{
+    font-family: 'Times New Roman', Times, serif;
+    padding-top: 20px;
+}
+.para
+{
+    padding-top: 20px;
+}
